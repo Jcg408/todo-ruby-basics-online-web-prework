@@ -7,11 +7,11 @@ def assign_variable(value)
   name = value
 end
 
-def argue
-
+def argue (arg)
+  return arg
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
