@@ -1,14 +1,14 @@
 def division(num1, num2)
- x = num2/num1
+ x = num1/num2
  return x
 end
 
 def assign_variable(value)
-  
+
 end
 
 def argue
-  
+
 end
 
 def greeting
